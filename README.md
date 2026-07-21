@@ -4,7 +4,7 @@
 - <h1> Domain 2: Security Logging and Monitoring</h1>
 - <h1> Domain 3: Infrastructure Security </h1> 
 - <h1> Domain 4: Identity and Access Management </h1>
-- - [AWS IAM](https://github.com/earkevin11/Understanding-AWS-IAM-and-Access-Policies)
+- - [Understanding IAM in AWS and how access policies are used with Users and Groups](https://github.com/earkevin11/Understanding-AWS-IAM-and-Access-Policies)
 - <h1> Domain 5: Data Protection </h1> (18% of scored content) 
 - <h1> Domain 6: Management and Security Governance </h1> 
 
